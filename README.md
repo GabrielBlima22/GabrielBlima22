@@ -7,7 +7,13 @@
 
  
 - Estou estudando algumas linguagens: HTML, CSS;
-<br />
+  
+  
+  
+  
+  
+  <br />
+  <br />
 
  
 
@@ -15,5 +21,3 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 
-<br />
-<br />
